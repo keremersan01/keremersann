@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keremersann
 - 👀 I’m interested in computer science and software development
-- 🌱 I’m currently learning Computer Networks/Developing backend applications with spring framework/Programming paradigms
+- 🌱 I’m currently learning Computer Networks/Developing backend applications with spring framework/Programming paradigms/Software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can find me at keremersan01@gmail.com
 
